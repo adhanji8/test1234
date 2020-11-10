@@ -1,3 +1,4 @@
+// Some comment
 let database = require("../database");
 
 let remindersController = {
