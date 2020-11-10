@@ -63,6 +63,7 @@ let remindersController = {
   // Delete the Reminder
   delete: (req, res) => {
     // ⭐️ your implementation here ⭐️
+    console.log("delete finished!");
   }
 }
 
